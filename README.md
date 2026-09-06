@@ -24,6 +24,7 @@ Ce projet simule la gestion des identités, des appareils et de la sécurité d�
 - VirtualBox
 - Conditional Access
 
+
 ## Éléments mis en place
 
 - Création et gestion d’utilisateurs cloud.
